@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, [I'm Ricardo](https://twitter.com/rickardomeza) 👋
 
-<!--
-**ricardormeza/ricardormeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my web frontend skills 
+- 🌱 I’m currently learning css and javascript
+- 👯 I’m looking to collaborate on web page designs 
+- 🤔 I’m looking for help with frontend stuff
+- 📫 How to reach me: rickardomeza@gmail.com, [Twitter - @rickardomeza](https://twitter.com/rickardomeza)
+- 😄 Pronouns: Rick
 
-Here are some ideas to get you started:
+# About
+I am cancer, I like books, I am passionate about web development, I like exercise, I am a computer systems engineer constantly **learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![enjoy the life ](https://media.giphy.com/media/4IeMMc2MRGdyg/giphy.gif)

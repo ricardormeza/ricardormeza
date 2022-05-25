@@ -10,4 +10,6 @@
 # About
 I am cancer, I like books, I am passionate about web development, I like exercise, I am a computer systems engineer constantly **learning**.
 
+I have some projects on Netlify
+
 ![enjoy the life ](https://media.giphy.com/media/4IeMMc2MRGdyg/giphy.gif)

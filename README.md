@@ -1,15 +1,20 @@
-# Hi, [I'm Ricardo & i'm IA](https://twitter.com/rickardomeza) 👋
+# Ricardo (Rick) 👋
 
-- 🔭 I’m currently working on my web frontend and Backend skills 
-- 🌱 I’m currently learning javascript, React, NextJs, PHP, SEO, SEM, Markegint, Google Analytics, Search Console, Locker Studio, Wordpress, CSS, SASE, SD-WAN, XDR, EDR, KALI LINUX.
-- 👯 I’m looking to collaborate on web page designs
-- 🤔 I’m looking for help with frontend stuff
-- 📫 How to reach me: rickardomeza@gmail.com, [Twitter - @rickardomeza](https://twitter.com/rickardomeza)
-- 😄 Pronouns: Rick
+**Full-Stack Web Developer | SEO & Digital Marketing Specialist**  
+**Desarrollador Web Full Stack | Especialista en SEO y Marketing Digital**
 
-# About
-I am cancer, I like books, I am passionate about web development, I like exercise, I am a computer systems engineer constantly **learning**.
+I build websites and digital solutions focused on performance, SEO, analytics, automation, and user experience.  
+Construyo sitios web y soluciones digitales enfocadas en rendimiento, SEO, analítica, automatización y experiencia de usuario.
 
-I have some projects on Vercel
+## About me / Sobre mí
 
-![enjoy the life ](https://media.giphy.com/media/4IeMMc2MRGdyg/giphy.gif)
+- 🚀 Strengthening my frontend and backend development skills through real-world projects  
+- 💻 Working with JavaScript, React, Next.js, PHP, Python, WordPress, MySQL, Prisma, and PostgreSQL  
+- 📊 Focused on SEO, SEM, GA4, Google Tag Manager, Search Console, and Looker Studio  
+- 🔐 Continuously improving my cybersecurity knowledge, especially in hardening and secure environments  
+- 🤝 Open to collaborating on web development, SEO, analytics, automation, and digital growth projects  
+
+## Contact / Contacto
+
+- 📫 Email: **rickardomeza@gmail.com**
+- 🐦 X/Twitter: **@rickardomeza**

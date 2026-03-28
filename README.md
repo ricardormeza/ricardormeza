@@ -1,4 +1,4 @@
-# Hi, [I'm Ricardo](https://twitter.com/rickardomeza) 👋
+# Hi, [I'm Ricardo & i'm IA](https://twitter.com/rickardomeza) 👋
 
 - 🔭 I’m currently working on my web frontend and Backend skills 
 - 🌱 I’m currently learning javascript, React, NextJs, PHP, SEO, SEM, Markegint, Google Analytics, Search Console, Locker Studio, Wordpress, CSS, SASE, SD-WAN, XDR, EDR, KALI LINUX.
